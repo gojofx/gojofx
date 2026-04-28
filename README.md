@@ -1,8 +1,8 @@
 # 👨‍💻 Johan Londoño
 
-**Full-Stack Developer** | Construyo arquitecturas escalables que resuelven problemas complejos
+**Full-Stack Developer** | Building scalable architectures that solve complex problems
 
-Transformo requisitos de negocio en soluciones de alto rendimiento. Especialista en sistemas distribuidos, optimización de algoritmos y arquitecturas híbridas que generan impacto real.
+I transform business requirements into high-performance solutions. Specialist in distributed systems, algorithm optimization, and hybrid architectures that generate real impact.
 
 ---
 
@@ -21,29 +21,29 @@ Transformo requisitos de negocio en soluciones de alto rendimiento. Especialista
 
 ---
 
-## 🎯 Lo Que Hago
+## 🎯 What I Do
 
-- **Arquitecturas Escalables** - Diseño de sistemas distribuidos con Laravel + FastAPI
-- **Optimización de Performance** - Reducción de latencia en procesamiento de datos (+90% mejoras)
-- **APIs RESTful Robustas** - Desarrollo de servicios backend de alto rendimiento
-- **Integración de IA** - Soluciones con modelos de lenguaje para automatización
-- **Gestión de Datos** - Optimización de bases de datos PostgreSQL y MongoDB
+- **Scalable Architectures** - Design of distributed systems with Laravel + FastAPI
+- **Performance Optimization** - Latency reduction in data processing (+90% improvements)
+- **Robust RESTful APIs** - Development of high-performance backend services
+- **AI Integration** - Solutions with language models for automation
+- **Data Management** - Optimization of PostgreSQL and MongoDB databases
 
 ---
 
-## 📂 Proyectos Destacados
+## 📂 Featured Projects
 
-### Generador Automatizado de Documentos
-*Laravel + FastAPI | PostgreSQL | IA*
-- ⚡ **99% mejora en eficiencia**: De 2 semanas a 10 minutos en procesamiento
-- 📄 Motor de plantillas dinámicas para reportes PDF y Word
-- 🤖 Núcleo en FastAPI con extracción de datos vía IA
+### Automated Document Generator
+*Laravel + FastAPI | PostgreSQL | AI*
+- ⚡ **99% efficiency improvement**: From 2 weeks to 10 minutes processing
+- 📄 Dynamic template engine for PDF and Word reports
+- 🤖 FastAPI core with AI-powered data extraction
 
-### APIs RESTful Escalables
+### Scalable RESTful APIs
 *Express.js | MongoDB | Node.js*
-- Comunicación eficiente entre sistemas
-- Optimización de bases de datos NoSQL
-- Resolución de bugs complejos en producción
+- Efficient communication between systems
+- NoSQL database optimization
+- Complex bug resolution in production
 
 ---
 
@@ -51,17 +51,17 @@ Transformo requisitos de negocio en soluciones de alto rendimiento. Especialista
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gojofx&show_icons=true&theme=dark&locale=es&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gojofx&show_icons=true&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gojofx&layout=compact&theme=dark&locale=es&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gojofx&layout=compact&theme=dark&hide_border=true)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gojofx&theme=github-dark&locale=es&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gojofx&theme=github-dark&hide_border=true)
 
 </div>
 
 ---
 
-## 🔗 Conecta Conmigo
+## �🔗 Connect With Me
 
 <div align="center">
 
@@ -76,8 +76,8 @@ Transformo requisitos de negocio en soluciones de alto rendimiento. Especialista
 
 <div align="center">
 
-**¿Tienes un proyecto desafiante?** → [Hablemos](mailto:johlonvi@gmail.com)
+**Got a challenging project?** → [Let's Talk](mailto:johlonvi@gmail.com)
 
-*Disponible para colaboraciones y proyectos interesantes* 🚀
+*Available for collaborations and interesting projects* 🚀
 
 </div>
