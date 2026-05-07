@@ -47,18 +47,6 @@ I transform business requirements into high-performance solutions. Specialist in
 
 ---
 
-## 📊 GitHub Metrics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gojofx&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gojofx&layout=compact&theme=dark&hide_border=true)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gojofx&theme=github-dark&hide_border=true)
-
-</div>
-
 ---
 
 ## �🔗 Connect With Me
